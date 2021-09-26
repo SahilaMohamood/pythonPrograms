@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cbdb022-9082-4b63-91d1-cdbdfb132e61" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1v2Lr4PM80i4wAbxgrF5f09S6gz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sahila\PycharmProjects\onlineclass\files" />
+      <recent name="C:\Users\sahila\PycharmProjects\onlineclass" />
+      <recent name="C:\Users\sahila\PycharmProjects\onlineclass\string_manipulation" />
+      <recent name="C:\Users\sahila\PycharmProjects\onlineclass\task" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.listpaternsajay">
+    <configuration name="listpaternsajay" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionalprgming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalprgming/listpaternsajay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mapfilterreduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionalprgming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalprgming/mapfilterreduce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="products" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionalprgming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalprgming/products.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionalprgming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalprgming/reduce.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sajpairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="onlineclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionalprgming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionalprgming/sajpairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.listpaternsajay" />
+        <item itemvalue="Python.sajpairs" />
+        <item itemvalue="Python.products" />
+        <item itemvalue="Python.reduce" />
+        <item itemvalue="Python.mapfilterreduce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cbdb022-9082-4b63-91d1-cdbdfb132e61" name="Default Changelist" comment="" />
+      <created>1625755433147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625755433147</updated>
+      <workItem from="1625755441536" duration="6230000" />
+      <workItem from="1625839753033" duration="6613000" />
+      <workItem from="1626097125988" duration="6541000" />
+      <workItem from="1626190842628" duration="651000" />
+      <workItem from="1626357307641" duration="4487000" />
+      <workItem from="1626615652019" duration="8816000" />
+      <workItem from="1626704353260" duration="6271000" />
+      <workItem from="1626878648209" duration="3722000" />
+      <workItem from="1626963363904" duration="4246000" />
+      <workItem from="1627051217707" duration="5668000" />
+      <workItem from="1627308394862" duration="3990000" />
+      <workItem from="1627394301417" duration="6063000" />
+      <workItem from="1627656687886" duration="3896000" />
+      <workItem from="1627742238491" duration="6587000" />
+      <workItem from="1627912697100" duration="4626000" />
+      <workItem from="1628087882469" duration="4601000" />
+      <workItem from="1628174600136" duration="2299000" />
+      <workItem from="1629642071890" duration="3951000" />
+      <workItem from="1629724492653" duration="6003000" />
+      <workItem from="1630759256235" duration="4927000" />
+      <workItem from="1631256354002" duration="6467000" />
+      <workItem from="1631540456433" duration="3540000" />
+      <workItem from="1631625762701" duration="3757000" />
+      <workItem from="1631715311404" duration="3481000" />
+      <workItem from="1631860699357" duration="4807000" />
+      <workItem from="1632321321745" duration="6552000" />
+      <workItem from="1632408956371" duration="3603000" />
+      <workItem from="1632487673211" duration="3330000" />
+      <workItem from="1632538381970" duration="2672000" />
+      <workItem from="1632578256716" duration="7811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FlowOfControl/conditional_statements/if_else.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task/grad.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/regular_expression/quan1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Packages/demoprgm.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/onlineclass$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1626103066489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/looping" />
+    <SUITE FILE_PATH="coverage/onlineclass$nesting.coverage" NAME="nesting Coverage Results" MODIFIED="1628088312443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/dictionary" />
+    <SUITE FILE_PATH="coverage/onlineclass$emploconst.coverage" NAME="emploconst Coverage Results" MODIFIED="1631256371645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$count.coverage" NAME="count Coverage Results" MODIFIED="1631864163123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$square_pattern.coverage" NAME="square_pattern Coverage Results" MODIFIED="1626965125621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$addelemnt.coverage" NAME="addelemnt Coverage Results" MODIFIED="1627308549698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/sets" />
+    <SUITE FILE_PATH="coverage/onlineclass$sajpairs.coverage" NAME="sajpairs Coverage Results" MODIFIED="1632584767968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$wordkeycount.coverage" NAME="wordkeycount Coverage Results" MODIFIED="1628089415909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/dictionary" />
+    <SUITE FILE_PATH="coverage/onlineclass$crerule.coverage" NAME="crerule Coverage Results" MODIFIED="1632323246917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$spplit.coverage" NAME="spplit Coverage Results" MODIFIED="1628088069652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/dictionary" />
+    <SUITE FILE_PATH="coverage/onlineclass$pattern4.coverage" NAME="pattern4 Coverage Results" MODIFIED="1627913600927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg1.coverage" NAME="rulepg1 Coverage Results" MODIFIED="1631864587515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$personchildparentstudent.coverage" NAME="personchildparentstudent Coverage Results" MODIFIED="1631543974748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1626618489867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$coninh_personemployee.coverage" NAME="coninh_personemployee Coverage Results" MODIFIED="1631626884447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$exc_as.coverage" NAME="exc_as Coverage Results" MODIFIED="1629728601420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception handlin g" />
+    <SUITE FILE_PATH="coverage/onlineclass$checkPresentKey.coverage" NAME="checkPresentKey Coverage Results" MODIFIED="1628000033531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/dictionary" />
+    <SUITE FILE_PATH="coverage/onlineclass$demoprgm.coverage" NAME="demoprgm Coverage Results" MODIFIED="1632410299781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Packages" />
+    <SUITE FILE_PATH="coverage/onlineclass$filter.coverage" NAME="filter Coverage Results" MODIFIED="1632578676590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$countword.coverage" NAME="countword Coverage Results" MODIFIED="1631862687338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/onlineclass$MinMax.coverage" NAME="MinMax Coverage Results" MODIFIED="1627658589506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$listSum.coverage" NAME="listSum Coverage Results" MODIFIED="1627398359269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$inheritancedemo.coverage" NAME="inheritancedemo Coverage Results" MODIFIED="1631258845684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$personemployee.coverage" NAME="personemployee Coverage Results" MODIFIED="1631259168967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$oop.coverage" NAME="oop Coverage Results" MODIFIED="1630759677080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$oddEven.coverage" NAME="oddEven Coverage Results" MODIFIED="1627310693071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/sets" />
+    <SUITE FILE_PATH="coverage/onlineclass$append.coverage" NAME="append Coverage Results" MODIFIED="1629644629857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/onlineclass$listout.coverage" NAME="listout Coverage Results" MODIFIED="1629727765756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception handlin g" />
+    <SUITE FILE_PATH="coverage/onlineclass$Employee.coverage" NAME="Employee Coverage Results" MODIFIED="1630761947577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$readnwrite.coverage" NAME="readnwrite Coverage Results" MODIFIED="1629644238262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg8.coverage" NAME="rulepg8 Coverage Results" MODIFIED="1631864977783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$string_iteration.coverage" NAME="string_iteration Coverage Results" MODIFIED="1626708002691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$count_letter.coverage" NAME="count_letter Coverage Results" MODIFIED="1626709870027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$overridingex2.coverage" NAME="overridingex2 Coverage Results" MODIFIED="1631718552090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/polimorphism" />
+    <SUITE FILE_PATH="coverage/onlineclass$duplicate.coverage" NAME="duplicate Coverage Results" MODIFIED="1627658124343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$constructure.coverage" NAME="constructure Coverage Results" MODIFIED="1630763630691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$for_ex.coverage" NAME="for_ex Coverage Results" MODIFIED="1626103170169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$upper_lower_case.coverage" NAME="upper_lower_case Coverage Results" MODIFIED="1626880654825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$calc.coverage" NAME="calc Coverage Results" MODIFIED="1626622132738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg7.coverage" NAME="rulepg7 Coverage Results" MODIFIED="1631864910111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$pattern3.coverage" NAME="pattern3 Coverage Results" MODIFIED="1627913579859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$wrk.coverage" NAME="wrk Coverage Results" MODIFIED="1629729294834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception handlin g" />
+    <SUITE FILE_PATH="coverage/onlineclass$greatest_num.coverage" NAME="greatest_num Coverage Results" MODIFIED="1626099609755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$tryexceptfinally.coverage" NAME="tryexceptfinally Coverage Results" MODIFIED="1629728287791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception handlin g" />
+    <SUITE FILE_PATH="coverage/onlineclass$teacher.coverage" NAME="teacher Coverage Results" MODIFIED="1631257570742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg2.coverage" NAME="rulepg2 Coverage Results" MODIFIED="1631864630973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$copy.coverage" NAME="copy Coverage Results" MODIFIED="1629644885952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/onlineclass$ex_filtermapreduce.coverage" NAME="ex_filtermapreduce Coverage Results" MODIFIED="1632540907842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$mul_while.coverage" NAME="mul_while Coverage Results" MODIFIED="1626446313364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$q10.coverage" NAME="q10 Coverage Results" MODIFIED="1631541228600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exm2" />
+    <SUITE FILE_PATH="coverage/onlineclass$quan6.coverage" NAME="quan6 Coverage Results" MODIFIED="1632322821597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$regno.coverage" NAME="regno Coverage Results" MODIFIED="1632328009019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$move_element.coverage" NAME="move_element Coverage Results" MODIFIED="1626708736743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$fibanocci.coverage" NAME="fibanocci Coverage Results" MODIFIED="1626623755884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$prgm3.coverage" NAME="prgm3 Coverage Results" MODIFIED="1632325982030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$prgm.coverage" NAME="prgm Coverage Results" MODIFIED="1632324799190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$addition.coverage" NAME="addition Coverage Results" MODIFIED="1630759969332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$userinput.coverage" NAME="userinput Coverage Results" MODIFIED="1625760508259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamental_programming" />
+    <SUITE FILE_PATH="coverage/onlineclass$OddEven.coverage" NAME="OddEven Coverage Results" MODIFIED="1627660248479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$count_vowel.coverage" NAME="count_vowel Coverage Results" MODIFIED="1626879648418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$addElemnt.coverage" NAME="addElemnt Coverage Results" MODIFIED="1627394823743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$firstletter.coverage" NAME="firstletter Coverage Results" MODIFIED="1632411386515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming/lambda fn" />
+    <SUITE FILE_PATH="coverage/onlineclass$pattern2.coverage" NAME="pattern2 Coverage Results" MODIFIED="1627913562053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$parallelogrm_pattern.coverage" NAME="parallelogrm_pattern Coverage Results" MODIFIED="1627913651827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg9.coverage" NAME="rulepg9 Coverage Results" MODIFIED="1631865047781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$factorial__1_.coverage" NAME="factorial (1) Coverage Results" MODIFIED="1626619683510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$updateAdd.coverage" NAME="updateAdd Coverage Results" MODIFIED="1627999286197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/dictionary" />
+    <SUITE FILE_PATH="coverage/onlineclass$even.coverage" NAME="even Coverage Results" MODIFIED="1626447487246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$variables.coverage" NAME="variables Coverage Results" MODIFIED="1625759654347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamental_programming" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg6.coverage" NAME="rulepg6 Coverage Results" MODIFIED="1631864843069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$odd_even_while.coverage" NAME="odd_even_while Coverage Results" MODIFIED="1626446952410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$mulpleByFive.coverage" NAME="mulpleByFive Coverage Results" MODIFIED="1627659060356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$primeNot.coverage" NAME="primeNot Coverage Results" MODIFIED="1627311909458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/sets" />
+    <SUITE FILE_PATH="coverage/onlineclass$countIndex.coverage" NAME="countIndex Coverage Results" MODIFIED="1628091733759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/tuple" />
+    <SUITE FILE_PATH="coverage/onlineclass$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1629728554620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception handlin g" />
+    <SUITE FILE_PATH="coverage/onlineclass$cnstrctr_inherit.coverage" NAME="cnstrctr_inherit Coverage Results" MODIFIED="1631626405926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$q2.coverage" NAME="q2 Coverage Results" MODIFIED="1631262150229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exm2" />
+    <SUITE FILE_PATH="coverage/onlineclass$ducktyping.coverage" NAME="ducktyping Coverage Results" MODIFIED="1632412506857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$stude.coverage" NAME="stude Coverage Results" MODIFIED="1631719804340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/polimorphism" />
+    <SUITE FILE_PATH="coverage/onlineclass$dem.coverage" NAME="dem Coverage Results" MODIFIED="1626617473536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions" />
+    <SUITE FILE_PATH="coverage/onlineclass$multilevel.coverage" NAME="multilevel Coverage Results" MODIFIED="1631541852553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$filephnno.coverage" NAME="filephnno Coverage Results" MODIFIED="1632326933242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$auan3.coverage" NAME="auan3 Coverage Results" MODIFIED="1632322347795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$removepunct.coverage" NAME="removepunct Coverage Results" MODIFIED="1626879634632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$queue.coverage" NAME="queue Coverage Results" MODIFIED="1629726924637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure" />
+    <SUITE FILE_PATH="coverage/onlineclass$binarySearching.coverage" NAME="binarySearching Coverage Results" MODIFIED="1627747242212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$quan1.coverage" NAME="quan1 Coverage Results" MODIFIED="1632321973413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$vehno.coverage" NAME="vehno Coverage Results" MODIFIED="1632324424115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1625758626368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamental_programming" />
+    <SUITE FILE_PATH="coverage/onlineclass$square.coverage" NAME="square Coverage Results" MODIFIED="1627397369907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg10.coverage" NAME="rulepg10 Coverage Results" MODIFIED="1631865051334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$personchildstudent.coverage" NAME="personchildstudent Coverage Results" MODIFIED="1631543196766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$arithematic.coverage" NAME="arithematic Coverage Results" MODIFIED="1625840659494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operators" />
+    <SUITE FILE_PATH="coverage/onlineclass$local_global.coverage" NAME="local_global Coverage Results" MODIFIED="1627051824387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$stack.coverage" NAME="stack Coverage Results" MODIFIED="1629725709936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/datastructure" />
+    <SUITE FILE_PATH="coverage/onlineclass$subdecorators.coverage" NAME="subdecorators Coverage Results" MODIFIED="1632488767397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$squaresofset.coverage" NAME="squaresofset Coverage Results" MODIFIED="1627309230539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/sets" />
+    <SUITE FILE_PATH="coverage/onlineclass$PRIME.coverage" NAME="PRIME Coverage Results" MODIFIED="1627311634478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$pattern1.coverage" NAME="pattern1 Coverage Results" MODIFIED="1627913990384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$switching.coverage" NAME="switching Coverage Results" MODIFIED="1626449393728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/looping" />
+    <SUITE FILE_PATH="coverage/onlineclass$atm.coverage" NAME="atm Coverage Results" MODIFIED="1626098988552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/conditional_statements" />
+    <SUITE FILE_PATH="coverage/onlineclass$check_element.coverage" NAME="check element Coverage Results" MODIFIED="1626709534397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg4.coverage" NAME="rulepg4 Coverage Results" MODIFIED="1631864757525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$products.coverage" NAME="products Coverage Results" MODIFIED="1632581791968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$listpaternsajay.coverage" NAME="listpaternsajay Coverage Results" MODIFIED="1632585016803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$listTraversing.coverage" NAME="listTraversing Coverage Results" MODIFIED="1627398680424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$listslicing.coverage" NAME="listslicing Coverage Results" MODIFIED="1627657194267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$sum__1_.coverage" NAME="sum (1) Coverage Results" MODIFIED="1626620608393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1626707619194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/looping" />
+    <SUITE FILE_PATH="coverage/onlineclass$poly.coverage" NAME="poly Coverage Results" MODIFIED="1631715684312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/polimorphism" />
+    <SUITE FILE_PATH="coverage/onlineclass$overridingex.coverage" NAME="overridingex Coverage Results" MODIFIED="1631718353284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/polimorphism" />
+    <SUITE FILE_PATH="coverage/onlineclass$pos_neg.coverage" NAME="pos_neg Coverage Results" MODIFIED="1625846946754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/conditional_statements" />
+    <SUITE FILE_PATH="coverage/onlineclass$while_loop.coverage" NAME="while_loop Coverage Results" MODIFIED="1626445932882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl/looping" />
+    <SUITE FILE_PATH="coverage/onlineclass$prgm2.coverage" NAME="prgm2 Coverage Results" MODIFIED="1632325726301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$parentteach_coninhrt.coverage" NAME="parentteach_coninhrt Coverage Results" MODIFIED="1631628777809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$args.coverage" NAME="args Coverage Results" MODIFIED="1632490207633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$grad.coverage" NAME="grad Coverage Results" MODIFIED="1627054252979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$admin_access_decor.coverage" NAME="admin_access_decor Coverage Results" MODIFIED="1632489520169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$mail.coverage" NAME="mail Coverage Results" MODIFIED="1632325058363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$compoundassignment.coverage" NAME="compoundassignment Coverage Results" MODIFIED="1625841626148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operators" />
+    <SUITE FILE_PATH="coverage/onlineclass$add_not.coverage" NAME="add_not Coverage Results" MODIFIED="1626617978103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$quan5.coverage" NAME="quan5 Coverage Results" MODIFIED="1632322734392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1632488816541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$count_first_recusive.coverage" NAME="count_first_recusive Coverage Results" MODIFIED="1626880579257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$q1pattern.coverage" NAME="q1pattern Coverage Results" MODIFIED="1631261871067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exm2" />
+    <SUITE FILE_PATH="coverage/onlineclass$apendExtend.coverage" NAME="apendExtend Coverage Results" MODIFIED="1627748490163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$quan4.coverage" NAME="quan4 Coverage Results" MODIFIED="1632322601593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$relationaloperator.coverage" NAME="relationaloperator Coverage Results" MODIFIED="1625842105593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operators" />
+    <SUITE FILE_PATH="coverage/onlineclass$swapping.coverage" NAME="swapping Coverage Results" MODIFIED="1625845988956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$sum.coverage" NAME="sum Coverage Results" MODIFIED="1628091593337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/tuple" />
+    <SUITE FILE_PATH="coverage/onlineclass$sort.coverage" NAME="sort Coverage Results" MODIFIED="1627400030034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$sumargs.coverage" NAME="sumargs Coverage Results" MODIFIED="1632490727134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming/lambda fn" />
+    <SUITE FILE_PATH="coverage/onlineclass$basic.coverage" NAME="basic Coverage Results" MODIFIED="1625757485455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fundamental_programming" />
+    <SUITE FILE_PATH="coverage/onlineclass$avg_total_mark_stdnt.coverage" NAME="avg_total_mark_stdnt Coverage Results" MODIFIED="1625844408792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$great_amng_3num.coverage" NAME="great_amng_3num Coverage Results" MODIFIED="1626101296139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$factorial_recur.coverage" NAME="factorial_recur Coverage Results" MODIFIED="1627053405485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recurssion" />
+    <SUITE FILE_PATH="coverage/onlineclass$mapfilterreduce.coverage" NAME="mapfilterreduce Coverage Results" MODIFIED="1632580281168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$6.coverage" NAME="6 Coverage Results" MODIFIED="1631540858502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exm2" />
+    <SUITE FILE_PATH="coverage/onlineclass$vehicle.coverage" NAME="vehicle Coverage Results" MODIFIED="1631627349964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$logicaloperator.coverage" NAME="logicaloperator Coverage Results" MODIFIED="1625841799053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operators" />
+    <SUITE FILE_PATH="coverage/onlineclass$newfile.coverage" NAME="newfile Coverage Results" MODIFIED="1629644299170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/onlineclass$bank.coverage" NAME="bank Coverage Results" MODIFIED="1630762749206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$student.coverage" NAME="student Coverage Results" MODIFIED="1631719234148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/polimorphism" />
+    <SUITE FILE_PATH="coverage/onlineclass$crerule1.coverage" NAME="crerule1 Coverage Results" MODIFIED="1632323459325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$salry.coverage" NAME="salry Coverage Results" MODIFIED="1629643339323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/tuple" />
+    <SUITE FILE_PATH="coverage/onlineclass$add.coverage" NAME="add Coverage Results" MODIFIED="1632411072588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming/lambda fn" />
+    <SUITE FILE_PATH="coverage/onlineclass$overloadingex.coverage" NAME="overloadingex Coverage Results" MODIFIED="1631716149806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/polimorphism" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg11.coverage" NAME="rulepg11 Coverage Results" MODIFIED="1631865075586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$reduce.coverage" NAME="reduce Coverage Results" MODIFIED="1632580955972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$unionIntersectionDefference.coverage" NAME="unionIntersectionDefference Coverage Results" MODIFIED="1627311042824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/sets" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg3.coverage" NAME="rulepg3 Coverage Results" MODIFIED="1631864753143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$common.coverage" NAME="common Coverage Results" MODIFIED="1626708483848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/string_manipulation" />
+    <SUITE FILE_PATH="coverage/onlineclass$prime_no.coverage" NAME="prime_no Coverage Results" MODIFIED="1627311617947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functions/task" />
+    <SUITE FILE_PATH="coverage/onlineclass$arg_details.coverage" NAME="arg_details Coverage Results" MODIFIED="1632490474431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming/lambda fn" />
+    <SUITE FILE_PATH="coverage/onlineclass$mul.coverage" NAME="mul Coverage Results" MODIFIED="1627744307440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$vacc_age_decr.coverage" NAME="vacc_age_decr Coverage Results" MODIFIED="1632489875759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming" />
+    <SUITE FILE_PATH="coverage/onlineclass$keywords.coverage" NAME="keywords Coverage Results" MODIFIED="1628091183276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/tuple" />
+    <SUITE FILE_PATH="coverage/onlineclass$tupleUnpacking.coverage" NAME="tupleUnpacking Coverage Results" MODIFIED="1628091478291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/tuple" />
+    <SUITE FILE_PATH="coverage/onlineclass$even100_200.coverage" NAME="even100-200 Coverage Results" MODIFIED="1627744481962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1631256790396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/onlineclass$personchild.coverage" NAME="personchild Coverage Results" MODIFIED="1631260161204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/inheritance" />
+    <SUITE FILE_PATH="coverage/onlineclass$rulepg5.coverage" NAME="rulepg5 Coverage Results" MODIFIED="1631864801182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$demo.coverage" NAME="demo Coverage Results" MODIFIED="1632410674924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functionalprgming/lambda fn" />
+    <SUITE FILE_PATH="coverage/onlineclass$quan2.coverage" NAME="quan2 Coverage Results" MODIFIED="1632322229103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$write.coverage" NAME="write Coverage Results" MODIFIED="1629643915695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/onlineclass$linearSearch.coverage" NAME="linearSearch Coverage Results" MODIFIED="1627398167079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$tri_pattern.coverage" NAME="tri_pattern Coverage Results" MODIFIED="1627913633421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pattern_prgms" />
+    <SUITE FILE_PATH="coverage/onlineclass$updation.coverage" NAME="updation Coverage Results" MODIFIED="1627748275261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/list" />
+    <SUITE FILE_PATH="coverage/onlineclass$raiseexception.coverage" NAME="raiseexception Coverage Results" MODIFIED="1629729035647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception handlin g" />
+    <SUITE FILE_PATH="coverage/onlineclass$prgm4.coverage" NAME="prgm4 Coverage Results" MODIFIED="1632326357299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$theory.coverage" NAME="theory Coverage Results" MODIFIED="1626097245633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FlowOfControl" />
+    <SUITE FILE_PATH="coverage/onlineclass$fibno_recur.coverage" NAME="fibno_recur Coverage Results" MODIFIED="1627053413560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recurssion" />
+    <SUITE FILE_PATH="coverage/onlineclass$commonelemnt.coverage" NAME="commonelemnt Coverage Results" MODIFIED="1627310791775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoncollection/sets" />
+    <SUITE FILE_PATH="coverage/onlineclass$quan7.coverage" NAME="quan7 Coverage Results" MODIFIED="1632322849182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$phnno.coverage" NAME="phnno Coverage Results" MODIFIED="1632324391716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/regular_expression" />
+    <SUITE FILE_PATH="coverage/onlineclass$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1631262268868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exm2" />
+  </component>
+</project>
